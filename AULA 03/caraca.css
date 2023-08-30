@@ -1,0 +1,29 @@
+div{
+
+    border: 2px solid rgb(156, 121, 5);
+    margin-left: auto;
+    margin-right: auto;
+
+
+   }
+
+   .tipo1{
+    background-color: rgb(209, 187, 154);
+    width: 500px;
+    padding-top: 50px;
+    
+}
+
+.tipo2{
+    background-color: rgb(202, 179, 166);
+    width: 200px;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+
+.tipo3{
+    background-color: rgb(199, 225, 248);
+    width: 500px;
+
+
+}
